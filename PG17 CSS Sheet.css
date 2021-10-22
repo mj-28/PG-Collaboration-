@@ -53,3 +53,23 @@ p {
     height: 160px;
 
 }
+#mainimage{
+    display: flex;
+    justify-content: center;
+}
+
+#wrapper{
+    display:flex;
+}
+
+
+
+#team{
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+#team h3{
+    display: block;
+}
