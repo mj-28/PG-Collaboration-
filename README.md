@@ -1,6 +1,5 @@
 # PG-Collaboration-
 
-<!DOCTYPE html>
 <html>
     <head>
         <title>Ideas</title>
